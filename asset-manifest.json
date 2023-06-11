@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/wizsage-test/static/css/main.4efb37a3.css",
+    "main.js": "/wizsage-test/static/js/main.38806051.js",
+    "static/js/27.09403fe7.chunk.js": "/wizsage-test/static/js/27.09403fe7.chunk.js",
+    "index.html": "/wizsage-test/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.4efb37a3.css",
+    "static/js/main.38806051.js"
+  ]
+}
